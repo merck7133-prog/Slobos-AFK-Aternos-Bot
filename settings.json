@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Mine-Life.aternos.me:34108",
+    "port": 34108,
     "version": "",
     "try-creative": false
   },
